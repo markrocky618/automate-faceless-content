@@ -17,12 +17,26 @@
 ### Module 2: Mastering Syllaby.io
 - ✅ **Structure Complete**: All 8 lessons outlined
 - ✅ **Lesson 2 Complete**: Faceless Video Generator (comprehensive mastery guide)
-- ⏳ Lessons 1, 3-8: Ready for content
+- ✅ **Lesson 6 Complete**: Bulk Scheduler (monthly content planning)
+- ✅ **Lesson 7 Complete**: Idea Discovery (research-backed content)
+- ⏳ Lessons 1, 3-5, 8: Ready for content
+
+### Module 3: Content Creation Mastery
+- ✅ **Structure Complete**: All 7 lessons outlined
+- ✅ **Lesson 1 Complete**: 5-Minute Video Creation System (complete workflow)
+- ✅ **Lesson 5 Complete**: Content Repurposing System (1 video = 6-11 pieces)
+- ⏳ Lessons 2-4, 6-7: Ready for content
 
 ### Module 4: Getting Monetized Fast
 - ✅ **Structure Complete**: All 7 lessons outlined
+- ✅ **Lesson 1 Complete**: YouTube Partner Program Requirements (detailed)
 - ✅ **Lesson 2 Complete**: 2-3 Week Monetization Strategy (detailed action plan)
-- ⏳ Lessons 1, 3-7: Ready for content
+- ⏳ Lessons 3-7: Ready for content
+
+### Module 5: Revenue Streams & Monetization
+- ✅ **Structure Complete**: All 7 lessons outlined
+- ✅ **Lesson 1 Complete**: Revenue Stack (5 income streams, detailed breakdown)
+- ⏳ Lessons 2-7: Ready for content
 
 ### Bonuses
 - ✅ **2,700 Video Ideas**: Complete bonus with ideas across all niches
@@ -46,7 +60,7 @@
 | Module 9 | ⏳ Ready | 0/5 | 5 |
 | Module 10 | ⏳ Ready | 0/6 | 6 |
 
-**Total Progress**: 5/61 lessons complete (8%)
+**Total Progress**: 12/61 lessons complete (20%)
 
 ---
 
@@ -61,11 +75,17 @@
    - Action items planned
 
 2. **Complete Lessons**:
-   - Module 0: Welcome (comprehensive)
-   - Module 1, Lesson 1: What is Faceless Video (detailed)
-   - Module 1, Lesson 4: Choosing Niche (all 12 niches detailed)
-   - Module 2, Lesson 2: Faceless Generator (complete mastery)
-   - Module 4, Lesson 2: Monetization Strategy (2-3 week plan)
+   - Module 0: Welcome (comprehensive, 5 sections)
+   - Module 1, Lesson 1: What is Faceless Video (detailed, 15+ min)
+   - Module 1, Lesson 4: Choosing Niche (all 12 niches with earning data)
+   - Module 2, Lesson 2: Faceless Generator (complete mastery, 45 min)
+   - Module 2, Lesson 6: Bulk Scheduler (monthly planning, 30 min)
+   - Module 2, Lesson 7: Idea Discovery (research-backed, 25 min)
+   - Module 3, Lesson 1: 5-Minute System (complete workflow, 30 min)
+   - Module 3, Lesson 5: Content Repurposing (1 video = 6-11 pieces, 30 min)
+   - Module 4, Lesson 1: YouTube Requirements (detailed, 20 min)
+   - Module 4, Lesson 2: Monetization Strategy (2-3 week plan, 45 min)
+   - Module 5, Lesson 1: Revenue Stack (5 streams, detailed, 30 min)
 
 3. **Bonus Materials**:
    - 2,700 Video Ideas (complete across all niches)
