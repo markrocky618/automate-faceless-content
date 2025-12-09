@@ -19,6 +19,14 @@ Learn how to automate faceless short-form + long-form video content and dominate
 
 ---
 
+### [🚀 Join Syllaby.io - Start Your Free Trial →](https://syllaby.io/?via=chris56)
+
+**In order to take full advantage of this course and guide, join Syllaby for free!**
+
+[![Join Syllaby](https://img.shields.io/badge/Join%20Syllaby.io-Start%20Free%20Trial-brightgreen?style=for-the-badge&logo=syllaby)](https://syllaby.io/?via=chris56)
+
+---
+
 ### ⭐ If You Find This Course/Guide Helpful, Please Star This Repo! ⭐
 
 **Your star helps others discover this resource and motivates continued improvements!**
