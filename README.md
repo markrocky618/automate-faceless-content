@@ -305,16 +305,7 @@ This guide contains affiliate links. Using the provided link supports the mainte
 
 ## 📚 More Repos to Follow
 
-**Check out these other amazing repositories by Chris Porter:**
-
-### 🚀 [Automate for Growth](https://github.com/cporter202/automate-for-growth)
-Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.
-
-### 🤖 [AI Agent Tools](https://github.com/cporter202/ai-agent-tools)
-Comprehensive collection of AI agent tools and resources for automation and productivity.
-
-### 💻 [Lovable for Beginners](https://github.com/cporter202/lovable-for-beginners)
-Complete guide to building web applications with Lovable - perfect for beginners looking to create their first apps.
+**👉 [Check out more amazing repositories →](./more-repos-to-follow/README.md)**
 
 ---
 
