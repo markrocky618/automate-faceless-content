@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Faceless Video Content Guide](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2)](https://syllaby.io/?via=chris56)
+# 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
 
-# 🎬 Complete Guide to Automating Faceless Video Content
+[![Faceless Video Content Guide](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2)](https://syllaby.io/?via=chris56)
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
 
